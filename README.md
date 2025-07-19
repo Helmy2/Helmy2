@@ -1,133 +1,90 @@
-# 👋 Hi, I'm Mohamed Helmy 
-**Android Developer | ML Enthusiast | Clean Architecture Advocate**  
+# 👋 Hi, I'm Mohamed Helmy
+**Android Developer | Full-Stack Enthusiast | Clean Architecture Advocate**
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/mo-helmy)
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:mohelmy.eng@gmail.com)
 
-Building robust Android experiences with **Jetpack Compose** and solving real-world problems through machine learning.  
-Passionate about clean architecture and full-stack solutions.
+Crafting robust mobile experiences with **Jetpack Compose** and building scalable full-stack solutions with **Ktor** and **Kotlin Multiplatform**. Passionate about clean, modular architecture and solving real-world problems.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Mobile Development**  
+**Mobile & Cross-Platform**
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-4285F4?logo=jetpack-compose)
+![Compose Multiplatform](https://img.shields.io/badge/-Compose%20Multiplatform-4285F4?logo=jetpackcompose)
 ![Room](https://img.shields.io/badge/-Room-4479A1?logo=android)
 ![Hilt](https://img.shields.io/badge/-Hilt-430098?logo=dagger)
-![Retrofit](https://img.shields.io/badge/-Retrofit-6F42C1?logo=square)
-![Coil](https://img.shields.io/badge/-Coil-3D8FC6?logo=coil)
-![Accompanist](https://img.shields.io/badge/-Accompanist-4285F4?logo=android)
+![Koin](https://img.shields.io/badge/-Koin-7F52FF?logo=koin)
 ![Navigation Component](https://img.shields.io/badge/-Navigation%20Component-027DFF?logo=android)
-![Data Binding](https://img.shields.io/badge/-Data%20Binding-FF4088?logo=android)
-![WorkManager](https://img.shields.io/badge/-WorkManager-5E97E6?logo=android)
 
-**Machine Learning**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy)
-![ONNX](https://img.shields.io/badge/-ONNX-005CED?logo=onnx)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter)
-
-**Backend & APIs**  
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase)
+**Backend & APIs**
 ![Ktor](https://img.shields.io/badge/-Ktor-000000?logo=ktor)
-![REST APIs](https://img.shields.io/badge/-REST%20APIs-FF6F00?logo=rest)
-![JSON](https://img.shields.io/badge/-JSON-000000?logo=json)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase)
+![REST APIs](https://img.shields.io/badge/-REST%20APIs-FF6F00)
 ![WebSockets](https://img.shields.io/badge/-WebSockets-010101?logo=websocket)
 
-**Testing**  
-![JUnit](https://img.shields.io/badge/-JUnit-25A162?logo=junit5)
-![Mockito](https://img.shields.io/badge/-Mockito-78CFF5?logo=mockito)
-![Espresso](https://img.shields.io/badge/-Espresso-78CFF5?logo=android)
-![Robolectric](https://img.shields.io/badge/-Robolectric-3D3D3D?logo=android)
+**Python, AI & Machine Learning**
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python)
+![Pygame](https://img.shields.io/badge/-PyGame-2F4377?logo=pygame)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas)
+![ONNX](https://img.shields.io/badge/-ONNX-005CED?logo=onnx)
 
-**Tools & Utilities**  
+**IoT & Hardware**
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino)
+![ESP8266](https://img.shields.io/badge/-ESP8266-E73525)
+
+**Architecture & Tools**
+![Clean Architecture](https://img.shields.io/badge/-Clean%20Architecture-6DB33F)
+![MVI](https://img.shields.io/badge/-MVI-FF6F00)
+![MVVM](https://img.shields.io/badge/-MVVM-005571)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git)
 ![Gradle](https://img.shields.io/badge/-Gradle-02303A?logo=gradle)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=android-studio)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira)
-![Trello](https://img.shields.io/badge/-Trello-0052CC?logo=trello)
-
-**Architecture**  
-![Clean Architecture](https://img.shields.io/badge/-Clean%20Architecture-6DB33F)
-![MVVM](https://img.shields.io/badge/-MVVM-005571)
-![MVI](https://img.shields.io/badge/-MVI-FF6F00)
-![Repository Pattern](https://img.shields.io/badge/-Repository%20Pattern-430098)
-![Modularization](https://img.shields.io/badge/-Modularization-027DFF)
 
 ---
 
 ## 🚀 Featured Projects
-### 🌟 Current Focus: Clean Architecture Project
-  
-#### [Clean Architecture](https://github.com/Helmy2/CleanArch)
-**Ongoing modular Android blueprint** featuring:
-- **Koin DI** for testable components
-- **Type-safe navigation** with sealed classes
-- **Reactive Flow** for state management
-- **Firebase Auth + Room** hybrid data layer
-- **Strict layer separation**: Data → Domain → Presentation
 
-#### 🏗️ Architectural Components
-```text
-:app → :feature-auth → :data → :domain → :core
-       :feature-home → 
-```
-#### 🏆 Project Highlights
+### Full-Stack & Cross-Platform
 
-##### Testability First
-Mockable components via Koin, enabling isolated unit & integration tests
-##### Error Resilience
-Unified error handling through Resource sealed classes
-##### State Management
-MVI pattern ensuring unidirectional data flow
-##### CI/CD Ready
-Gradle modularization supporting parallel builds
+#### [CrossCart 🛒](https://github.com/Helmy2/CrossCart)
+A multiplatform e-commerce application for **Android, iOS, and Desktop**. Built with **Compose Multiplatform** and a **Supabase** backend, it features offline caching with Room, real-time data synchronization, and a complete, modern shopping experience.
 
-**Tech Stack**:  
-`Kotlin` `Jetpack Compose` `Koin` `Flow` `WebSockets` `Firebase` `Room`
+#### [Offline-First POS/ERP App 🏪](https://github.com/Helmy2/POS)
+A cross-platform POS and ERP system for **Android & Desktop** built with **Kotlin Multiplatform**. Designed with an **offline-first** strategy using a local Room database that intelligently syncs with a **Supabase** backend. Features Clean Architecture, MVI, and real-time data updates.
 
-### Android Projects
+#### [Tasks ✅](https://github.com/Helmy2/Tasks)
+A full-stack todo app with a **Ktor** backend and a Jetpack Compose client. The Android app uses **MVVM** architecture, **Hilt** for DI, and reactive state management with Flow.
+
+### Android Applications
+
+#### [Clean Architecture Blueprint 🏗️](https://github.com/Helmy2/CleanEntry)
+An Android app built to demonstrate a modern, scalable, and maintainable app architecture. It serves as a case study for implementing Clean Architecture principles with an MVI (Model-View-Intent) pattern in a multi-module project using Jetpack Compose.
 
 #### [WanderPedia 🌍](https://github.com/Helmy2/WanderPedia)
-World wonders explorer with dual MVI implementation:
-- Google Maps integration & Room offline-first
-- Firebase Auth/Firestore & Material 3 design
-- Clean Architecture separation
+An Android app for exploring world wonders, built with **Clean Architecture** and two distinct **MVI** patterns. Integrates Google Maps, Firebase, and **Hilt** for DI, with offline caching via Room.
 
-#### [ShowMagnet 🎬](https://github.com/Helmy2/ShowMagnet) 
-TMDB-powered movie discovery app:
-- Jetpack Compose UI with dark/light themes
-- Firebase Auth & Firestore integration
-- Paging 3 for smooth data loading
-- Accompanist animation utilities
+#### [ShowMagnet 🎬](https://github.com/Helmy2/ShowMagnet)
+A movie discovery app using the TMDB API, built with **Clean Architecture** and **MVI**. Features **Jetpack Compose** for the UI, **Hilt** for dependency injection, and **Room** for local data persistence.
 
-#### [Tasks ✅](https://github.com/Helmy2/Tasks) 
-Full-stack todo app with Ktor backend:
-- Modern Compose UI with swipe gestures
-- Ktor REST API integration
-- MVVM architecture with Flow
-- Material Design components
+#### [Location Reminder 📍](https://github.com/Helmy2/LocationReminder)
+A geofence-powered to-do app that triggers reminders based on location. Built with **MVVM** and the classic Android View system, it integrates the **Google Maps & Geofencing APIs** and uses **Koin** for DI.
 
-#### [LocationReminder 📍](https://github.com/Helmy2/LocationReminder) 
-Geofence-based reminder system:
-- Google Maps & Geofencing API
-- Room database with LiveData
-- Koin DI & Mockito testing
-- Firebase authentication
+### Game Development & AI
 
-### Machine Learning
+#### [AI-Powered Pacman 👻](https://github.com/Helmy2/Pacman-Game)
+A Python implementation of the classic Pacman game using **Pygame**. Features intelligent ghosts powered by an **AI search algorithm**, making the gameplay challenging and unpredictable.
 
-#### [Diabetes Prediction 🩺](https://github.com/Helmy2/Diabetes-Health-Indicators) 
-Health analytics engine:
-- AUC 0.94 Random Forest classifier
-- Feature selection (Pearson/MI/Chi2)
-- ONNX model deployment
-- Handled class imbalance
+#### [Diabetes Prediction 🩺](https://github.com/Helmy2/Diabetes-Health-Indicators)
+A machine learning project using a Random Forest classifier to predict diabetes with **0.94 AUC**. Includes feature selection, class imbalance handling, and model deployment using ONNX.
+
+### IoT & Hardware
+
+#### [IoT Environmental Monitor 🌡️](https://github.com/Helmy2/TempReader)
+A full-stack IoT solution where an **ESP8266** sensor sends real-time data to **Firebase**. A native **Android app** provides a dashboard with live charts, historical data, offline support via Room, and critical push notifications.
 
 ---
 
@@ -142,8 +99,6 @@ Health analytics engine:
 ## 📈 GitHub Activity
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Helmy2&theme=radical&hide_border=true&area=true)](https://github.com/Helmy2)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Helmy2&layout=compact&theme=vision-friendly-dark)](https://github.com/Helmy2)
 
 ---
 
