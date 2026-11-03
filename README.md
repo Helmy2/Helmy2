@@ -6,7 +6,7 @@
 
 ---
 
-Android & Kotlin Multiplatform Engineer with 2+ years of commercial experience and a 4-year track record in the Android ecosystem, specializing in scalable cross-platform architectures, modular systems (30+ modules), and published open-source libraries. Experienced in Jetpack Compose, Compose Multiplatform, offline-first synchronization, and secure mobile systems. Proven track record of modernizing legacy codebases, accelerating build and networking pipelines, and delivering production-ready solutions.
+Android & Kotlin Multiplatform Engineer specializing in scalable cross-platform architectures, modular systems (30+ modules), and published open-source libraries. Experienced in Jetpack Compose, Compose Multiplatform, offline-first synchronization, and secure mobile systems. Proven track record of modernizing legacy codebases, accelerating build and networking pipelines, and delivering production-ready solutions.
 
 ## 💼 Work Experience
 
