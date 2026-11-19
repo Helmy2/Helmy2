@@ -21,6 +21,7 @@ Android & Kotlin Multiplatform Engineer specializing in scalable cross-platform 
 
 **Software Engineering Instructor (Part-Time)**, National Telecommunication Institute (NTI), Oct 2026 - Present
 
+- Instructing ~40 software engineers across two national workforce development programs at NTI — Enterprise Java (HireReady Initiative) and Kotlin backend engineering (Bank Misr Program).
 - **HireReady Initiative — Enterprise Java Developer Track:** Instructing on Core & Enterprise Java, Object-Oriented Programming (OOP) modeling, SOLID design principles, and enterprise design patterns.
 - **Bank Misr Program — Backend Engineering with Java, Kotlin, and Modern Architectures:** Delivered a comprehensive curriculum covering Clean Architecture, SOLID principles, 16+ Gang of Four (GoF) Creational, Structural, and Behavioral design patterns, and modern Kotlin with Coroutines and Flow.
 
